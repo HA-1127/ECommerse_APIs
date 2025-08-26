@@ -1,0 +1,20 @@
+@ECommerce.API_HostAddress = https://localhost:7177
+
+###
+
+POST {{ECommerce.API_HostAddress}}/api/Identity/accounts/Register
+Content-Type: application/json
+
+{
+  {
+  "firstName": "",
+  "lastName": "",
+  "email": "",
+  "userName": "",
+  "password": "",
+  "confirmPassword": "",
+  "address": null
+}
+}
+
+###
