@@ -90,9 +90,8 @@ The E-Commerce Application is a comprehensive platform designed to manage the en
 
 | Type | Technologies |
 |------|---------------|
-| **Backend** | ASP.NET Core MVC |
+| **Backend** | ASP.NET Core Apis |
 | **ORM** | Entity Framework Core |
 | **Database** | Microsoft SQL Server |
-| **Frontend** | Razor Views + Bootstrap + Custom CSS |
 | **Patterns** | Repository Pattern, Unit of Work, Dependency Injection |
 | **Libraries** | AutoMapper for mapping between ViewModels and Entities |
